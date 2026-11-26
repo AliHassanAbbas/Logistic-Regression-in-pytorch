@@ -1,22 +1,22 @@
 # Logistic Regression in PyTorch — Episode 03
 
-A practical notebook covering logistic regression for classification using PyTorch.
+A practical notebook covering logistic regression for classification.
 
 ## Notebook
 - `Logistic_Regression_in_pytorch_episode_3.ipynb`
 
 ## Topics
-- Classification inputs and targets
+- Classification data and targets
 - Logits and probability outputs
 - Classification loss
 - Autograd and optimization
-- Model prediction workflow
+- Prediction workflow
 
 ## Run
-Open the notebook in Jupyter or Google Colab. Install PyTorch and any imported dependencies before running.
+Open in Jupyter or Google Colab. Install PyTorch and imported dependencies.
 
 ## Scope
-Educational implementation. Check the notebook for the precise classification task, dataset and metrics.
+Educational implementation. Check the notebook for task, dataset and metrics.
 
 ## Author
 Ali Hassan Abbas | [GitHub](https://github.com/AliHassanAbbas)
